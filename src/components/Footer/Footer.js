@@ -20,7 +20,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>"Curiosity killed the cat, but for a while I was a suspect." - Steven Wright</Slogan>
+          <Slogan>"CURIOSITY IS A WILLING, A PROUD, AND EAGER CONFESSION OF IGNORANCE." - S.Leonard Rubinstein</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/sourabhsuman-iitk">
