@@ -20,13 +20,13 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>"Curiosity killed the cat, but for a while I was a suspect." - Steven Wright</Slogan>
+          <Slogan>"CURIOSITY IS A WILLING, A PROUD, AND EAGER CONFESSION OF IGNORANCE." - S.Leonard Rubinstein</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/sourabhsuman-iitk">
+          <SocialIcons href="https://github.com/sourabhsuman-iitk" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/sourabh-suman-iitk22">
+          <SocialIcons href="https://www.linkedin.com/in/sourabh-suman-iitk22" target="_blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
           {/* <SocialIcons href="https://google.com">

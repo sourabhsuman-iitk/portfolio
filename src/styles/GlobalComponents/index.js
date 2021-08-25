@@ -83,6 +83,7 @@ export const SectionTitle2 = styled.h2`
   }
 `
 
+
 export const SectionText = styled.p`
   max-width: 800px;
   font-size: 24px;
@@ -185,6 +186,32 @@ export const SectionSubText2 = styled.p`
     line-height: 22px;
   }
 `
+export const SectionSubHead = styled.p`
+  max-width: 800px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  // color: rgba(226,191,91, 0.8);
+  // color: rgba(54,152,203,0.9);
+  color: rgba(27,168,200,1);
+
+
+
+@media ${(props) => props.theme.breakpoints.md} {
+    padding-top: 20px;
+    max-width: 672px;
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  @media ${(props) => props.theme.breakpoints.sm} {
+    font-size: 18px;
+    padding-top: 0px;
+    line-height: 22px;
+  }
+`
+
+
 export const SecondaryBtn = styled.button`
   color: #FFF;
   background: none;
