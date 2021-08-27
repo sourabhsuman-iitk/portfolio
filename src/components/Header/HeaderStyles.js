@@ -50,6 +50,10 @@ export const Div3 = styled.div`
   }
 `;
 
+export const LinkHref = styled.a`
+  
+`;
+
 // Navigation Links
 export const NavLink = styled.a`
   font-size: 2rem;
