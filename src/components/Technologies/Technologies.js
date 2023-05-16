@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design, I have always taken a keen interest in expanding my skillset.
+    I'm a talented frontend developer with a passion for creating visually stunning and highly functional digital experiences. 
+    With 2 years of experience in the industry, I have honed my skills in modern frontend frameworks like React, Typescript, NextJs, React Native, several other web technologies like NodeJS, MongoDB, Express, Firebase.
     </SectionText>
     <List>
       <ListItem>
@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js, CSS 
+            React, NextJs, Typescript, React Native, Javascript, HTML5/CSS3 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and NoSQL Databases <br/>
+            NodeJs, Express and NoSQL Databases
             like MongoDB
           </ListParagraph>
         </ListContainer>

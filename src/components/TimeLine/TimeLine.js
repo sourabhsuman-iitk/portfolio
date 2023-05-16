@@ -45,11 +45,13 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
-      <SectionImage src='/images/Img2.jpg' /> 
+      <SectionImage src='/images/Img3.jpeg' /> 
       <SectionText>
-      I am a chemical engineering undergrad at IIT Kanpur currently in my senior year. I got introduced to the world of web development in my freshmen year
-      when I was given the task to develop a simple blog site for a club. Since then I started exploring development more and worked on many projects
-      through the years. <br />The idea of solving a problem and making the solution available for everyone in the world with the click of a button intrigues me to this day. 
+        I'm an experienced frontend developer skilled in modern frameworks like React, NextJs, Typescript, React Native, NodeJs and other web technologies. 
+        With a passion for creating visually stunning and highly functional digital experiences, I excel in collaborating on diverse projects, from responsive websites 
+        to interactive web applications.<br /><br /> Meticulous about details and committed to delivering exceptional user experiences, I pride myself on writing clean and efficient code. 
+        As a strong communicator and team player, I thrive on building partnerships and translating clients' visions into digital realities. Eager to embrace new technologies, 
+        I am ready to contribute my expertise to your organization and create remarkable digital solutions.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

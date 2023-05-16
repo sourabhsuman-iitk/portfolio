@@ -13,13 +13,16 @@ const Hero = (props) => (
         Hello World! My name is 
         </SectionSubText2>
         <SectionTitle2 main center>
-          Sourabh Suman. <br />
-          I love exploring and building <br />
-          new things.
+          Sourabh Suman <br />
+          I transform ideas <br />
+          into exceptional products.
         </SectionTitle2>
         <SectionText>
-          I am a senior year undergrad at IIT Kanpur with a passion for coding, learning and innovating.
-          You can either find me curiously looking at the latest tech or developing something awesome for the web. 
+        I'm a passionate frontend developer graduated from <strong>IIT Kanpur</strong> dedicated to pushing creative boundaries and delivering exceptional digital solutions.
+        <br /><br />
+        With expertise in modern frameworks like React, Typescript, NextJs, React Native, I create immersive, user-centric websites, web apps, and mobile experiences.<br />
+
+        Let's collaborate and bring your vision to life with captivating designs and seamless functionality. 
         </SectionText>
         <Link href="mailto:sourabhsumaniitk@gmail.com">
          <Button onClick={props.handleClick}>Get in Touch</Button>

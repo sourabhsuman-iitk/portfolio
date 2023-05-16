@@ -9,28 +9,72 @@ const Experience = () =>  (
     <SectionTitle>Experience</SectionTitle>
     <SectionText>
         <SectionSubHead>
-            Frontend Intern <SectionSubHeadLink href="https://quicksell.co/" target="_blank">@QuickSell</SectionSubHeadLink>
+            Frontend Developer <SectionSubHeadLink href="https://quicksell.co/" target="_blank">@QuickSell</SectionSubHeadLink>
         </SectionSubHead>
-        <SectionSubText4>January - March,  2022</SectionSubText4>
-        QuickSell helps merchants increase their conversion rate and shorten sales cycle with a personal e-commerce strategy.
+        <SectionSubText4>August 2022 - March 2023</SectionSubText4>
+        QuickSell helps merchants increase their conversion rate and shorten sales cycle with a personal e-commerce strategy. 
     <List>
         <ListItem>
         <ListParagraph>
-            Effectively performed state management using react hooks and redux to manage the state of the app in a single place and keep
-            changes made in the app more predictable and traceable.
+        ◦ Developed a CRM website <SectionSubHeadLink href="https://web.doubletick.io/" target="_blank">Doubletick</SectionSubHeadLink> working in collaboration with the engineering team focused on sales, marketing and
+        customer support through WhatsApp Business API
         </ListParagraph>
         </ListItem>
 
         <ListItem>
         <ListParagraph>
-        Wrote and deployed features in collaboration with the engineering team and worked on bug fixes and improvements.
+        ◦ Redesigned and improved the existing micro e-commerce on CRM website with a high performant one which led to
+        more conversions due to simpler and intuitive UI
 
         </ListParagraph>
         </ListItem>
 
         <ListItem>
         <ListParagraph>
-            Setup the Chat API for WhatsApp API trigger to run a workflow which integrates with the Firebase Admin SDK API
+        ◦ Redeveloped the user onboarding flow on CRM website allowing users to test out features using demo account
+        </ListParagraph>
+        </ListItem>
+        <ListItem>
+        <ListParagraph>
+        ◦ Designed and developed an order flow enabling e-commerce product order management directly in customer chat
+        that also updates over android and ios apps in real time
+        </ListParagraph>
+        </ListItem>
+        <ListItem>
+        <ListParagraph>
+        ◦ Employed Jotai for complex state management and virtualized lists to improve the user experience
+        </ListParagraph>
+        </ListItem>
+    </List>
+    </SectionText>
+    <SectionText>
+        <SectionSubHead>
+            Frontend Intern <SectionSubHeadLink href="https://quicksell.co/" target="_blank">@QuickSell</SectionSubHeadLink>
+        </SectionSubHead>
+        <SectionSubText4>January - March,  2022</SectionSubText4>
+    <List>
+        <ListItem>
+        <ListParagraph>
+        ◦ Worked on redesigning and developing the transaction flow on the business catalogue website which led to steady
+        improvements across the funnel and conversions nearly doubled
+        </ListParagraph>
+        </ListItem>
+
+        <ListItem>
+        <ListParagraph>
+        ◦ Developed several features in micro react app that can be used in WebViews, iFrames, and native mobile apps
+
+        </ListParagraph>
+        </ListItem>
+
+        <ListItem>
+        <ListParagraph>
+        ◦ Setup the Chat API for WhatsApp API trigger to run a workflow which integrates with the Firebase Admin SDK API
+        </ListParagraph>
+        </ListItem>
+        <ListItem>
+        <ListParagraph>
+        ◦ Implemented technologies like React js, Next js, CSS, Javascript, JSX, TSX, Typescript, React Router
         </ListParagraph>
         </ListItem>
     </List>
@@ -39,7 +83,7 @@ const Experience = () =>  (
         <SectionSubHead>
             Software Developer and UI/UX Intern <SectionSubHeadLink href="https://www.khetipoint.in/" target="_blank">@Khetipoint Pvt Ltd</SectionSubHeadLink>
         </SectionSubHead>
-        <SectionSubText4>June - September,  2020</SectionSubText4>
+        <SectionSubText4>June 2020 - Dec 2021</SectionSubText4>
       Khetipoint is an integrated platform in the Agrotech space to provide farmers with tech based solutions.
     <List>
         <ListItem>

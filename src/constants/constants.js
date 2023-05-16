@@ -40,7 +40,9 @@ export const projects = [
 export const TimeLineData = [
   { year: 2018, text: 'Created my first website', },
   { year: 2019, text: 'Experimenting with languages and frameworks', },
-  { year: 2020, text: 'Finished my own blogging platform', },
-  { year: 2020, text: 'My first Full Stack and UI/UX Intern', },
-  { year: 2021, text: 'Finished several more cool projects', },
+  { year: 2020, text: 'Launched a blogging platform', },
+  { year: 2020, text: 'Full Stack and UI/UX', },
+  { year: 2021, text: 'Undertook and finished several more projects', },
+  { year: 2022, text: 'Frontend Developer Intern with QuickSell', },
+  { year: 2023, text: 'Frontend Developer at QuickSell', },
 ];

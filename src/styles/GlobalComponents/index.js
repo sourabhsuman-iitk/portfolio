@@ -55,8 +55,8 @@ export const SectionTitle = styled.h2`
 `
 export const SectionTitle2 = styled.h2`
   font-weight: 800;
-  font-size: ${(props) => props.main ? '65px' : '56px'};
-  line-height: ${(props) => props.main ? '72px' : '56px'};
+  font-size: ${(props) => props.main ? '60px' : '56px'};
+  line-height: ${(props) => props.main ? '68px' : '56px'};
   width: max-content;
   max-width: 100%;
   background: linear-gradient(121.57deg, #FFFFFF 18.77%, rgba(255, 255, 255, 0.66) 60.15%);
@@ -106,23 +106,20 @@ export const SectionText = styled.p`
   }
 `
 export const SectionImage = styled.img`
-  margin: 20px auto 20px 120px; 
-  width: 500px;
+  margin: 20px 0; 
+  width: 700px;
   height: auto;
-  border-radius: 25px;
 
   @media ${(props) => props.theme.breakpoints.md} {
-  margin: 20px auto 20px 100px; 
+  margin: 20px 0; 
   width: 400px;
   height: auto;
-  border-radius: 18px;
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    margin: 10px auto 10px 40px; 
-    width: 250px;
+    margin: 10px 0; 
+    width: 300px;
     height: auto;
-    border-radius: 8px;
   }
 `
 export const SectionDivider = styled.div`

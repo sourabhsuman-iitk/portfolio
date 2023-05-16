@@ -12,9 +12,12 @@ const Footer = () => {
       <SectionText> My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates.</SectionText>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Mail Me</LinkTitle>
+          <LinkTitle>Contact Me</LinkTitle>
           <LinkItem href="mailto:contact@jsmastery.com">
             sourabhsumaniitk@gmail.com
+          </LinkItem>
+          <LinkItem href="tel:+91-8130238862">
+            Mobile
           </LinkItem>
         </LinkColumn>
       </LinkList>
