@@ -81,7 +81,7 @@ const Experience = () =>  (
     </SectionText>
     <SectionText>
         <SectionSubHead>
-            Software Developer and UI/UX Intern <SectionSubHeadLink href="https://www.khetipoint.in/" target="_blank">@Khetipoint Pvt Ltd</SectionSubHeadLink>
+            Full-stack Developer and UI/UX <SectionSubHeadLink href="https://www.khetipoint.in/" target="_blank">@Khetipoint Pvt Ltd</SectionSubHeadLink>
         </SectionSubHead>
         <SectionSubText4>June 2020 - Dec 2021</SectionSubText4>
       Khetipoint is an integrated platform in the Agrotech space to provide farmers with tech based solutions.
