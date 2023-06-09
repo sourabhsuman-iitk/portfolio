@@ -11,7 +11,7 @@ const Experience = () =>  (
         <SectionSubHead>
             Frontend Developer <SectionSubHeadLink href="https://quicksell.co/" target="_blank">@QuickSell</SectionSubHeadLink>
         </SectionSubHead>
-        <SectionSubText4>August 2022 - March 2023</SectionSubText4>
+        <SectionSubText4>August 2022 - Till Date</SectionSubText4>
         QuickSell helps merchants increase their conversion rate and shorten sales cycle with a personal e-commerce strategy. 
     <List>
         <ListItem>
